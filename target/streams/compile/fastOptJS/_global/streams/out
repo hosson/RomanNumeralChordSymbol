@@ -1,0 +1,19 @@
+[info] Fast optimizing C:\Users\h2\git\RomanNumeralChordSymbol\target\scala-2.13\romannumeralchordsymbol-fastopt.js
+[debug] Linker: Compute reachability: 271795 us
+[debug] Linker: Assemble LinkedClasses: 25750 us
+[debug] Linker: Check IR: 154584 us
+[debug] Linker: 483071 us
+[debug] Optimizer: Batch mode: true
+[debug] Optimizer: Incremental part: 404195 us
+[debug] Optimizer: Optimizing 740 methods.
+[debug] Optimizer: Optimizer part: 269372 us
+[debug] Optimizer: 680968 us
+[debug] Refiner: Compute reachability: 14450 us
+[debug] Refiner: Assemble LinkedClasses: 1653 us
+[debug] Refiner: 22802 us
+[debug] Emitter: Generate classes: 114202 us
+[debug] Emitter: Write trees: 28682 us
+[debug] Emitter: Class tree cache stats: reused: 44 -- invalidated: 44
+[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 106
+[debug] Emitter: 166681 us
+[debug] BasicBackend: Write result: 70049 us
